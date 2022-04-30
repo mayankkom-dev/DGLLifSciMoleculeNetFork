@@ -1,6 +1,6 @@
 # MoleculeNet
 
-This repo is a fork version of actual dgl-lifesci repo. This has limited component and confiiguration to just test out GCN, GAT models on Tox21 and ToxCast Dataset.
+This repo is a fork version of actual dgl-lifesci repo[DGL-LIFESCI](https://github.com/awslabs/dgl-lifesci). This has limited component and confiiguration to just test out GCN, GAT models on Tox21 and ToxCast Dataset.
 
 [MoleculeNet](https://arxiv.org/abs/1703.00564) is a popular benchmark for molecular machine learning.
 For validating the robustness of DGL-LifeSci, we report the results of applying the 
